@@ -37,4 +37,4 @@ This tool is provided as is, with no guarantees except perhaps a slight increase
 
 "Electricity is really just organized lightning." - George Carlin
 
-[api live]ttps://kotimaatti.fi/pages/sahkon-spot-hinta
+ttps://kotimaatti.fi/pages/sahkon-spot-hinta
