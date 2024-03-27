@@ -36,3 +36,5 @@ Our thanks to the `api.spot-hinta.fi` wizards for their open API, without which 
 This tool is provided as is, with no guarantees except perhaps a slight increase in your electric bill should you choose to ignore the prophecies foretold.
 
 "Electricity is really just organized lightning." - George Carlin
+
+[api live](ttps://kotimaatti.fi/pages/sahkon-spot-hinta)
